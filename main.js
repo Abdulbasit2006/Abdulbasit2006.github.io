@@ -167,9 +167,9 @@ const SITE_CONFIG = {
   contact: {
     links: [
       { icon: '⌥', label: 'github.com/Abdulbasit2006', href: 'https://github.com/Abdulbasit2006', external: true },
-      { icon: '@', label: 'hello@abdulbasit.dev',       href: 'mailto:hello@abdulbasit.dev' },
-      { icon: '↗', label: 'linkedin',                   href: 'https://linkedin.com/in/abdulbasit', external: true },
-      { icon: '#', label: 'CV — available on request',  href: '#' },
+      { icon: '@', label: 'hello@abdulbasit.dev',       href: 'mailto:abdulbasitasghar2006@gmail.com' },
+      { icon: '↗', label: 'linkedin',                    href: 'https://www.linkedin.com/in/abdul-basit-asghar-7632b2350/', external: true },
+      { icon: '#', label: 'CV — available on request',  href: 'Abduls_CV.pdf' },
     ],
     note: `
       <p>Open to <strong>graduate roles</strong> in C++ systems engineering,
@@ -380,3 +380,13 @@ if (document.readyState === 'loading') {
 } else {
   init();
 }
+/**
+ * // just push this into SITE_CONFIG.projects
+{
+  name: 'My New Project',
+  desc: 'What it does.',
+  tags: [{ label: 'C++', hi: true }, { label: 'systems' }],
+  href: 'https://github.com/...',
+  external: true,
+}
+ */
