@@ -167,12 +167,12 @@ const SITE_CONFIG = {
   contact: {
     links: [
       { icon: '⌥', label: 'github.com/Abdulbasit2006', href: 'https://github.com/Abdulbasit2006', external: true },
-      { icon: '@', label: 'hello@abdulbasit.dev',       href: 'mailto:abdulbasitasghar2006@gmail.com' },
+      { icon: '@', label: 'abdulbasitasghar2006@gmail.com',       href: 'mailto:abdulbasitasghar2006@gmail.com' },
       { icon: '↗', label: 'linkedin',                    href: 'https://www.linkedin.com/in/abdul-basit-asghar-7632b2350/', external: true },
       { icon: '#', label: 'CV — available on request',  href: 'Abduls_CV.pdf' },
     ],
     note: `
-      <p>Open to <strong>graduate roles</strong> in C++ systems engineering,
+      <p>Open to <strong>intern roles</strong> in C++ systems engineering,
          HFT, or embedded software — UK-based, starting summer 2026.</p>
       <p>I respond to emails that contain something interesting.
          Cold recruiter paste-jobs get filed directly.</p>
